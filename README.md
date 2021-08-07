@@ -1,10 +1,9 @@
-# _Advancing into Analytics_: The Basics
+# _Advancing into Analytics_: Getting Started
 
-By the end of this workshop, you will be able to compare differences between two groups in Excel, R and Python.
+By the end of this workshop, you will have a **complete working environment** with Excel, R and Python on your computer to conduct summary statistics and more. 
+
+## It is recommended to attend this workshop on a Windows machine.
 
 
-## It is recommended to attend while on a Windows machine. 
 
-Get your environment set up. And then we will run summary statistics. 
-
-I will provide you demo notes. 
+##### Follow along with each section by using the demo notes, also available in this repo. 
