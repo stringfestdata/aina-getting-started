@@ -9,4 +9,4 @@ By the end of this workshop, you will have a **complete working environment** wi
 ##### Follow along with each section by using the demo notes, also available in this repo. 
 
 
-### [Learn more about *Advancing into Analytics*, including how to read for free, here](http://stringfestanalytics.com/book/)
+### [Want more? Sign up for the _Advancing into Analytics_ course waiting list here](http://stringfestanalytics.com/aina-waiting/)
